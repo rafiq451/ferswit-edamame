@@ -186,6 +186,17 @@ const StyledHero = styled.div`
       margin-top: 15rem;
     }
   }
+  @media (max-width: 360px) {
+    .bg_hero {
+      height: 41rem;
+    }
+    .content-right {
+      margin-top: 13rem;
+    }
+    .content-right h1 {
+      font-size: 1.5rem;
+    }
+  }
 `;
 
 const Hero = () => {
