@@ -1,6 +1,6 @@
 import React from 'react';
 import styled, { keyframes } from 'styled-components';
-import Gambarhero from '../../assets/header/gambar-hero1.png';
+import Gambarhero from '../../assets/header/gambar-hero.png';
 import Container from '../Container/Container';
 import BgHero from '../../assets/bg/bg-hero.png';
 import BgHero2 from '../../assets/bg/kotak1.png';
